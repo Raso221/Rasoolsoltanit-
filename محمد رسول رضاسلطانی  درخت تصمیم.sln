@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "محمد رسول رضاسلطانی  درخت تصمیم", "محمد رسول رضاسلطانی  درخت تصمیم\محمد رسول رضاسلطانی  درخت تصمیم.csproj", "{BE2ED8BE-DE56-4A1C-8C38-2FE4901AEB5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2ED8BE-DE56-4A1C-8C38-2FE4901AEB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2ED8BE-DE56-4A1C-8C38-2FE4901AEB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2ED8BE-DE56-4A1C-8C38-2FE4901AEB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2ED8BE-DE56-4A1C-8C38-2FE4901AEB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28115988-D05E-48FC-83B1-076324ACD772}
+	EndGlobalSection
+EndGlobal

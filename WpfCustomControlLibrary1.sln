@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCustomControlLibrary1", "WpfCustomControlLibrary1\WpfCustomControlLibrary1.csproj", "{0D453B79-D941-485A-AED9-2A8F150081CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D453B79-D941-485A-AED9-2A8F150081CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D453B79-D941-485A-AED9-2A8F150081CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D453B79-D941-485A-AED9-2A8F150081CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D453B79-D941-485A-AED9-2A8F150081CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BC44987-EDAF-4A06-8AED-5B8DF63EB553}
+	EndGlobalSection
+EndGlobal
